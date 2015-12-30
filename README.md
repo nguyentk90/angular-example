@@ -11,3 +11,5 @@ $ bower install
 ```
 $ gulp serve
 ```
+
+Read article: https://frontendz.com/setup-environment-to-work-with-angularjs/
