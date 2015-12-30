@@ -1,0 +1,13 @@
+{
+  "name": "angular-example",
+  "version": "1.0.0",
+  "authors": [
+    "Tran Khanh Nguyen"
+  ],
+  "description": "",
+  "homepage": "",
+  "ignore": [],
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
+}
