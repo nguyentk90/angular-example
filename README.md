@@ -1,9 +1,9 @@
 ### Installation
-1. Install npm components
+1 . Install npm components
 ```
 $ npm install
 ```
-2. Install bower components
+2 . Install bower components
 ```
 $ bower install
 ```
